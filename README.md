@@ -7,7 +7,12 @@
 An application that contains facts about countries
 
 ## Examples within this code
-To be added.
+- Table Views
+- View controllers
+- Storyboards
+- Interface Builder
+- Codable
+- Downloading JSON with Data
 
 ## Demonstration
 To be added.
