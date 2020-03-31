@@ -4,7 +4,7 @@
 	  title="Country Facts application icon" align="center" width="200" height="200" />
 </p>
 </br>
-An application that contains facts about countries
+An application that contains facts about countries.
 
 ## Examples within this code
 - Table Views
