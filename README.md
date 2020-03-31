@@ -15,4 +15,10 @@ An application that contains facts about countries
 - Downloading JSON with Data
 
 ## Demonstration
-To be added.
+Small demonstration as to what the application does when on device.
+</br>
+<p align="center">
+<img src="demo/country-facts.gif" alt="Application demonstration"
+    title="Country Facts demonstration" width="250" height="500" />
+</p>
+
