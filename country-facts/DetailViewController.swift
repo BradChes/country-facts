@@ -8,10 +8,9 @@
 
 import UIKit
 
-class DetailViewController: UIViewController {
+class DetailViewController: UITableViewController {
     
     var selectedCountryTitle: String?
-
 
     override func viewDidLoad() {
         super.viewDidLoad()
