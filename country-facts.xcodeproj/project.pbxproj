@@ -14,6 +14,7 @@
 		C6254B1324333B530075FF51 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C6254B1224333B530075FF51 /* Assets.xcassets */; };
 		C6254B1624333B530075FF51 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C6254B1424333B530075FF51 /* LaunchScreen.storyboard */; };
 		C6254B1E2433552F0075FF51 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6254B1D2433552F0075FF51 /* DetailViewController.swift */; };
+		C6254B20243377070075FF51 /* countries.json in Resources */ = {isa = PBXBuildFile; fileRef = C6254B1F243377070075FF51 /* countries.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		C6254B1524333B530075FF51 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C6254B1724333B530075FF51 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C6254B1D2433552F0075FF51 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		C6254B1F243377070075FF51 /* countries.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = countries.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				C6254B1224333B530075FF51 /* Assets.xcassets */,
 				C6254B1424333B530075FF51 /* LaunchScreen.storyboard */,
 				C6254B1724333B530075FF51 /* Info.plist */,
+				C6254B1F243377070075FF51 /* countries.json */,
 			);
 			path = "country-facts";
 			sourceTree = "<group>";
@@ -130,6 +133,7 @@
 			files = (
 				C6254B1624333B530075FF51 /* LaunchScreen.storyboard in Resources */,
 				C6254B1324333B530075FF51 /* Assets.xcassets in Resources */,
+				C6254B20243377070075FF51 /* countries.json in Resources */,
 				C6254B1124333B510075FF51 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

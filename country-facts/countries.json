@@ -1,0 +1,39 @@
+{
+  "countries": [
+    {
+      "name": "England",
+      "capital": "London",
+      "language": "English",
+      "currency": "Pounds sterling (£)",
+      "fact": "There are 15 National Parks in the UK which cover over 8% of the land area."
+    },
+    {
+      "name": "Germany",
+      "capital": "Berlin",
+      "language": "German",
+      "currency": "Euro (€)",
+      "fact": "65% of the highways in Germany (Autobahn) have no speed limit."
+    },
+    {
+      "name": "America",
+      "capital": "Washington, D.C.",
+      "language": "English",
+      "currency": "Dollar ($)",
+      "fact": "Most of the world's tornadoes occur in the Midwest region of the US known as Tornado Alley."
+    },
+    {
+      "name": "China",
+      "capital": "Beijing",
+      "language": "Mandarin",
+      "currency": "Renminbi (¥)",
+      "fact": "The word “ketchup” may come from a Chinese word for pickled-fish sauce."
+    },
+    {
+      "name": "Japan",
+      "capital": "Tokyo",
+      "language": "Japanese",
+      "currency": "Yen (¥)",
+      "fact": "The highest point in Japan in Mount Fuji, which stands at 3,776m (12,388ft)."
+    }
+  ]
+}
