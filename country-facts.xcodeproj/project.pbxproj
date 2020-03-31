@@ -15,6 +15,8 @@
 		C6254B1624333B530075FF51 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C6254B1424333B530075FF51 /* LaunchScreen.storyboard */; };
 		C6254B1E2433552F0075FF51 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6254B1D2433552F0075FF51 /* DetailViewController.swift */; };
 		C6254B20243377070075FF51 /* countries.json in Resources */ = {isa = PBXBuildFile; fileRef = C6254B1F243377070075FF51 /* countries.json */; };
+		C6254B22243377C70075FF51 /* countries.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6254B21243377C70075FF51 /* countries.swift */; };
+		C6254B24243377E50075FF51 /* Country.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6254B23243377E50075FF51 /* Country.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +30,8 @@
 		C6254B1724333B530075FF51 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C6254B1D2433552F0075FF51 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		C6254B1F243377070075FF51 /* countries.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = countries.json; sourceTree = "<group>"; };
+		C6254B21243377C70075FF51 /* countries.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = countries.swift; sourceTree = "<group>"; };
+		C6254B23243377E50075FF51 /* Country.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Country.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +73,8 @@
 				C6254B1424333B530075FF51 /* LaunchScreen.storyboard */,
 				C6254B1724333B530075FF51 /* Info.plist */,
 				C6254B1F243377070075FF51 /* countries.json */,
+				C6254B21243377C70075FF51 /* countries.swift */,
+				C6254B23243377E50075FF51 /* Country.swift */,
 			);
 			path = "country-facts";
 			sourceTree = "<group>";
@@ -147,7 +153,9 @@
 			files = (
 				C6254B0E24333B510075FF51 /* TableViewController.swift in Sources */,
 				C6254B0A24333B510075FF51 /* AppDelegate.swift in Sources */,
+				C6254B22243377C70075FF51 /* countries.swift in Sources */,
 				C6254B0C24333B510075FF51 /* SceneDelegate.swift in Sources */,
+				C6254B24243377E50075FF51 /* Country.swift in Sources */,
 				C6254B1E2433552F0075FF51 /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
